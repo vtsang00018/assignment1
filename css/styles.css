@@ -1,0 +1,42 @@
+body {
+        background-color: lightblue;
+}
+
+h1 {
+        color: 000099;
+        border-style: groove;
+        padding: 20px;
+}
+
+h2{
+        color: #000099;
+}
+
+li{
+
+
+}
+#bio{
+        color:  #800000 ;
+}
+
+#header {
+        font-family: Georgia;
+        font-weight: bold; 
+        text-align: center;
+}
+
+p {
+        font-size: 24px;
+        font-family: Georgia;
+        color: white;
+        background-color: #ff69b4;
+        margin-left: 25%;
+        margin-right: 25%;
+}
+
+p {
+        font-size: 10px;
+        color: blue;
+        border: dashed;
+}
